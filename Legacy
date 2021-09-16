@@ -1,0 +1,7 @@
+{
+    "project": "Legacy",
+    "policies": [
+        "policy1",
+        "policy2"
+    ]
+}
