@@ -1,0 +1,10 @@
+
+{
+    "project": "Legacy1",
+    "tags" : [
+       "Legacy1"
+    "policies": [
+        "project1",
+        "project2"
+    ]
+}
